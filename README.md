@@ -122,8 +122,8 @@ Aplikasi akan berjalan di:
 
 Aplikasi ini dikembangkan sebagai **Proyek untuk memenuhi Sertifikasi LSP** oleh:
 
-**Nama:** Zakia Mayta Proborini  
-**NIM:** 2331730117  
+**Nama:** Denis Ardianto  
+**NIM:** 2331730123
 **Prodi:** D3 Manajemen Informatika  
 **Kampus:** Politeknik Negeri Malang – Kampus Kediri  
 
