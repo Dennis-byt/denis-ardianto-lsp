@@ -104,7 +104,7 @@ Aplikasi akan berjalan di:
 ![Hapus Kategori](https://github.com/user-attachments/assets/cdf36555-80b8-46c4-a3d1-f7d917a75347)
 
 ### 9. About (Tentang Aplikasi)
-![About](<img width="1365" height="697" alt="image" src="https://github.com/user-attachments/assets/c911cba9-f360-44f6-9396-ff23cc1f1e36" />
+![About](https://github.com/user-attachments/assets/c911cba9-f360-44f6-9396-ff23cc1f1e36
 )
 
 ---
