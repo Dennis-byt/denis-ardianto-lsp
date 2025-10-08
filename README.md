@@ -41,7 +41,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di lingkungan loka
 
 #### 1. Clone Repositori
 ```bash
-git clone https://github.com/zakiamayta/arsip-surat.git
+git clone https://github.com/Dennis-byt/denis-ardianto-lsp.git
 cd arsip-surat
 ```
 
